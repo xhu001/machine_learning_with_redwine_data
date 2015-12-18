@@ -12,7 +12,11 @@ A random 20% split between the training and the validation data (320) is used. F
 Algorithms including decision tree, k-NN, SVM, Naive-Bayes, Random-Forest and Adaboost are tested with parameters tuning.  
 
 The best prediction is gaven by Random-Forest method with Z-score scaling. 
-Precision is 0.70; recall is 0.72, f1-score is 0.70.
+
+Precision : 0.70; 
+Recall    : 0.72;
+F1-score  : 0.70.
+
 The confusion matrix is:
 
           3   4   5   6   7   8
