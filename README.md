@@ -14,10 +14,17 @@ The best prediction is gaven by Random-Forest method with Z-score scaling.
 Precision is 0.70; recall is 0.72, f1-score is 0.70.
 The confusion matrix is:
      3   4   5   6   7   8
+     
 3 [  0   0   1   0   0   0]
+
 4 [  0   0   4   3   0   0]
+
 5 [  0   1 111  16   2   0]
+
 6 [  0   0  35  94   7   0]
+
 7 [  0   0   4  15  25   0]
+
 8 [  0   0   0   2   0   0]
+
 
