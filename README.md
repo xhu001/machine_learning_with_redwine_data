@@ -13,6 +13,7 @@ Algorithms including decision tree, k-NN, SVM, Naive-Bayes, Random-Forest and Ad
 The best prediction is gaven by Random-Forest method with Z-score scaling. 
 Precision is 0.70; recall is 0.72, f1-score is 0.70.
 The confusion matrix is:
+
      3   4   5   6   7   8
      
 3 [  0   0   1   0   0   0]
