@@ -2,7 +2,8 @@
 machine learning with redwine data: predicting wine quality ratings based on physicochemical properties
 
 The P. Cortez red wine quality dataset contains data samples of 1599 red wines consisting of 12 physiochemical properties 
-(such as alcohol, ph, acidity) and its quality rated by wine connoisseurs (0 – very bad to 10 – very excellent).
+(such as alcohol, ph, acidity) and its quality rated by wine connoisseurs (0 – very bad to 10 – very excellent). In this
+dataset, quality ranges from 3 to 8.  Details of this dataset can be found at the RED WINE EDA project.
 
 The goal of this project is to create a model using multiclass classification algorithms to predict the quality of a red wine
 based on its physiochemical properties.
